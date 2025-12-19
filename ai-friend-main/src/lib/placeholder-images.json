@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "riya-avatar",
+      "description": "Avatar for the AI character, inspired by Boa Hancock",
+      "imageUrl": "https://images.unsplash.com/photo-1606135882163-67757917da48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxib2ElMjBoYW5jb2NrfGVufDB8fHx8MTc3MDEzMDU3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "anime character"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Avatar for the user",
+      "imageUrl": "https://images.unsplash.com/photo-1607210173206-5de6655b67c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc2lsaG91ZXR0ZXxlbnwwfHx8fDE3NjQ1NTI4OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person silhouette"
+    }
+  ]
+}
